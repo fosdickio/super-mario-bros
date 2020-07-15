@@ -11,8 +11,9 @@ This is a clone of the original Super Mario Bros. game for the Nintendo Entertai
 - Gradle
 
 ## Instructions
-1.  Clone this repository
-2.  `gradle run`
+```
+gradle run
+````
 
 ## Controls
 * `Left/right arrow keys` - move left/right
