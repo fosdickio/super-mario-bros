@@ -1,4 +1,7 @@
 # Super Mario Bros.
+
+[![Build Status](https://travis-ci.com/fosdickio/super-mario-bros.svg?branch=master)](https://travis-ci.com/fosdickio/super-mario-bros)
+
 This is a clone of the original Super Mario Bros. game for the Nintendo Entertainment System.  It is built in Java using the [libGDX game development library](https://libgdx.badlogicgames.com/).
 
 ![Gameplay Screenshot](docs/game-screenshot.png "Gameplay Screenshot")
