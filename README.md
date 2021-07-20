@@ -12,7 +12,7 @@ This is a clone of the original Super Mario Bros. game for the Nintendo Entertai
 
 ## Instructions
 ```
-gradle run
+./gradlew run
 ````
 
 ## Controls
